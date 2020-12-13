@@ -18,6 +18,6 @@ Meta Reinforcement Learning (RL) methods focus on automating the design of RL al
 
 ![alt text](https://github.com/jjgarau/DAGPolicyGradient/blob/master/graphs/TD3/td3_phi.png?raw=true)
 
-### Soft Actor-Critic
+### Soft Actor-Critic (SAC)
 
 ![alt text](https://github.com/jjgarau/DAGPolicyGradient/blob/master/graphs/SAC/sac_phi.png?raw=true)
